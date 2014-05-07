@@ -1,6 +1,7 @@
 {
     "name": "claroline/bundle-recorder",
     "description": "Claroline bundle recorder",
+    "version": "5.0",
     "keywords": ["Claroline", "Bundle recorder"],
     "homepage": "http://www.claroline.net",
     "license": "",
